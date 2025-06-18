@@ -1,0 +1,5 @@
+keyboard
+pyaudio
+re
+speech_recognition
+wave
